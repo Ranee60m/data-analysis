@@ -43,7 +43,10 @@ https://t.ly/temdJ
 - تزداد احتمالية الإصابة بالسكري مع التقدم في العمر  
 - يوجد ارتباط بين ارتفاع BMI وارتفاع مستوى الجلوكوز  
 - اختلاف في نسب الإصابة بين الجنسين  
-- وجود قيم غير منطقية في البيانات تم معالجتها  
+- وجود قيم غير منطقية في البيانات تم معالجتها
+- Glucose was the most influential feature
+Zero values in some features were unrealistic and needed handling
+Data cleaning improved data quality significantly 
 
 ---
 
